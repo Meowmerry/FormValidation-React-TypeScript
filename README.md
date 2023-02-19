@@ -1,6 +1,9 @@
 # Form Validation with React and TypeScript
 
 
+https://user-images.githubusercontent.com/50789325/219981674-4e3d354a-d4d2-49c1-b464-39e586a1f7c9.mov
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
